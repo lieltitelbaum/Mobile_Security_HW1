@@ -2,4 +2,6 @@
     <string name="app_name">Mobile Security HW1</string>
     <string name="enter_your_full_name">Enter your full name</string>
     <string name="log_in">Log in</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login_successfully">Login Successfully!</string>
 </resources>
