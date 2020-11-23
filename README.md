@@ -2,7 +2,7 @@
 
 In this app you can perfome a secure logIn if the following conditions are met:
 
-- Device is on portrait mode.
+- Device is in portrait mode.
 - Dark mode is on.
 - GPS is on.
 - Device is connected to network.
